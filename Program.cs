@@ -5,6 +5,7 @@ namespace SampleAPI
     {
         public static void Main(string[] args)
         {
+            // Simple comment
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
